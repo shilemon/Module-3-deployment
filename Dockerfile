@@ -1,4 +1,3 @@
-# Use Node.js as base image
 FROM node:18
 #Create the work directory
 WORKDIR /app
